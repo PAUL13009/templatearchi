@@ -173,7 +173,7 @@ export default function Home() {
         {/* Description Text - Bottom Left */}
         <div className="absolute bottom-20 md:bottom-24 left-0 right-0 lg:left-12 lg:right-auto xl:left-16 z-10 w-full lg:w-auto max-w-[90%] lg:max-w-lg mx-auto lg:mx-0 px-4 lg:px-0">
           <p className="text-white text-sm sm:text-base md:text-lg leading-relaxed font-light uppercase text-center lg:text-left">
-            Nous concevons des résidences et des espaces inspirés par votre vision, alliant design réfléchi, collaboration et créativité pour façonner des lieux de vie qui s'adaptent naturellement à votre quotidien.
+            Nous concevons des résidences et des espaces inspirés par votre vision, alliant design réfléchi, collaboration et créativité pour façonner des lieux de vie qui s&apos;adaptent naturellement à votre quotidien.
           </p>
         </div>
       </section>
@@ -281,7 +281,7 @@ export default function Home() {
           <div className="w-full aspect-[16/9] md:aspect-[21/9] lg:aspect-[24/9] relative overflow-hidden bg-gray-200 mb-8">
             <Image
               src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3"
-              alt="Équipe d'architectes"
+              alt="Équipe d&apos;architectes"
               fill
               className="object-cover grayscale"
               quality={90}
@@ -328,7 +328,7 @@ export default function Home() {
             {/* Right Column */}
             <div className="lg:col-span-8">
               <p className="text-gray-900 text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold leading-relaxed">
-                Nous sommes une équipe de créateurs, de penseurs et de bâtisseurs qui croient en la création d'expériences qui créent de véritables connexions. Notre histoire est construite sur la passion, l'innovation et la volonté de donner vie à des idées significatives.
+                Nous sommes une équipe de créateurs, de penseurs et de bâtisseurs qui croient en la création d&apos;expériences qui créent de véritables connexions. Notre histoire est construite sur la passion, l&apos;innovation et la volonté de donner vie à des idées significatives.
               </p>
             </div>
           </div>
