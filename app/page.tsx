@@ -417,7 +417,7 @@ export default function Home() {
       <section id="gallery" className="py-24 bg-white">
         <div className="max-w-[1920px] mx-auto px-6 sm:px-8 lg:px-12 xl:px-16">
           {/* Title - Top Right */}
-          <div className="flex justify-end mb-12">
+          <div className="flex justify-center md:justify-end mb-12">
             <h2 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-gray-900 tracking-tight">
               GALERIE
             </h2>
@@ -441,8 +441,8 @@ export default function Home() {
               {/* Top Right Image */}
               <div className="aspect-[4/3] md:aspect-[5/4] relative overflow-hidden rounded-none bg-gray-200">
                 <Image
-                  src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3"
-                  alt="Paysage montagneux"
+                  src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3"
+                  alt="Intérieur design moderne"
                   fill
                   className="object-cover grayscale"
                   quality={90}
